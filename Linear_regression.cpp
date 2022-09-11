@@ -1,4 +1,4 @@
-// Coded by Dharrun Sriman (SuperGaming20), Do not take full credit for this progam.
+// Coded by Dharrun Sriman (SuperGaming20), Do not take full credit for this program.
 #include <iostream>
 #include <bits/stdc++.h>
 #include <vector>
